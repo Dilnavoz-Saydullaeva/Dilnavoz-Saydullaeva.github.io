@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "capital_cities_of_regions",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": "0", "name": "Toshkent", "type": "city", "population": 3000000, "long": 69.2787079, "lat": 41.3123363 }, "geometry": { "type": "Point", "coordinates": [ 69.2787079, 41.3123363 ] } },
+{ "type": "Feature", "properties": { "osm_id": "1", "name": "Buxoro", "type": "city", "population": 267000, "long": 64.4231326, "lat": 39.7675529 }, "geometry": { "type": "Point", "coordinates": [ 64.4231326, 39.7675529 ] } },
+{ "type": "Feature", "properties": { "osm_id": "2", "name": "Guliston", "type": "city", "population": 77300, "long": 68.7771296, "lat": 40.4945705 }, "geometry": { "type": "Point", "coordinates": [ 68.7771296, 40.4945705 ] } },
+{ "type": "Feature", "properties": { "osm_id": "3", "name": "Samarqand", "type": "city", "population": 319404, "long": 66.9758026, "lat": 39.6547869 }, "geometry": { "type": "Point", "coordinates": [ 66.9758026, 39.6547869 ] } },
+{ "type": "Feature", "properties": { "osm_id": "4", "name": "Qarshi", "type": "city", "population": 238000, "long": 65.7927872, "lat": 38.8399447 }, "geometry": { "type": "Point", "coordinates": [ 65.7927872, 38.8399447 ] } },
+{ "type": "Feature", "properties": { "osm_id": "5", "name": "Urganch", "type": "city", "population": 135100, "long": 60.6313697, "lat": 41.5517889 }, "geometry": { "type": "Point", "coordinates": [ 60.6313697, 41.5517889 ] } },
+{ "type": "Feature", "properties": { "osm_id": "6", "name": "Nukus", "type": "city", "population": 288900, "long": 59.6057742, "lat": 42.4585872 }, "geometry": { "type": "Point", "coordinates": [ 59.6057742, 42.4585872 ] } },
+{ "type": "Feature", "properties": { "osm_id": "7", "name": "Farg'ona", "type": "city", "population": 234700, "long": 71.7928621, "lat": 40.3777852 }, "geometry": { "type": "Point", "coordinates": [ 71.7928621, 40.3777852 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8", "name": "Namangan", "type": "city", "population": 449200, "long": 71.6710145, "lat": 41.0000288 }, "geometry": { "type": "Point", "coordinates": [ 71.6710145, 41.0000288 ] } },
+{ "type": "Feature", "properties": { "osm_id": "9", "name": "Termiz", "type": "city", "population": 130100, "long": 67.2874921, "lat": 37.2298502 }, "geometry": { "type": "Point", "coordinates": [ 67.2874921, 37.2298502 ] } },
+{ "type": "Feature", "properties": { "osm_id": "10", "name": "Navoiy", "type": "city", "population": 131000, "long": 65.3734221, "lat": 40.1034582 }, "geometry": { "type": "Point", "coordinates": [ 65.3734221, 40.1034582 ] } },
+{ "type": "Feature", "properties": { "osm_id": "11", "name": "Andijon", "type": "city", "population": 380000, "long": 72.3670244, "lat": 40.760107 }, "geometry": { "type": "Point", "coordinates": [ 72.3670244, 40.760107 ] } },
+{ "type": "Feature", "properties": { "osm_id": "12", "name": "Jizzax", "type": "city", "population": 139100, "long": 67.8234081, "lat": 40.1331797 }, "geometry": { "type": "Point", "coordinates": [ 67.8234081, 40.1331797 ] } }
+]
+}

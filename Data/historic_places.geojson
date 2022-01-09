@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "capital_cities_of_regions",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": "0", "name": "Historic centre of Shakhrisyabz", "type": "city", "population": 3000000, "long": 66.83337, "lat": 39.05016 }, "geometry": { "type": "Point", "coordinates": [ 66.83337, 39.05016 ] } },
+{ "type": "Feature", "properties": { "osm_id": "1", "name": "Western Tien Shan", "type": "city", "population": 267000, "long": 69.93454, "lat": 41.21063 }, "geometry": { "type": "Point", "coordinates": [ 69.93454, 41.21063 ] } },
+{ "type": "Feature", "properties": { "osm_id": "2", "name": "Ulugh Beg Madrasa", "type": "city", "population": 77300, "long": 66.97477, "lat": 39.65485 }, "geometry": { "type": "Point", "coordinates": [ 66.97477, 39.65485 ] } },
+{ "type": "Feature", "properties": { "osm_id": "3", "name": "Amir Temur Mausoleum Guri Amir Complex", "type": "city", "population": 319404, "long": 66.9692, "lat": 39.64876 }, "geometry": { "type": "Point", "coordinates": [ 66.9692, 39.64876 ] } },
+{ "type": "Feature", "properties": { "osm_id": "9", "name": "Registan", "type": "city", "population": 130100, "long": 66.97577, "lat": 39.65489 }, "geometry": { "type": "Point", "coordinates": [ 66.97577, 39.65489 ] } },
+{ "type": "Feature", "properties": { "osm_id": "12", "name": "Itchan Kala", "type": "city", "population": 139100, "long": 60.35937, "lat": 41.3783 }, "geometry": { "type": "Point", "coordinates": [ 60.35937, 41.3783 ] } }
+]
+}
